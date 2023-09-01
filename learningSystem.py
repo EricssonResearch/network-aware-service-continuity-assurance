@@ -1,9 +1,3 @@
-##################################################################
-# Author: edassni
-# Dated: Feb 27, 2023
-# Module Name: Learning System
-# Copyright Ericsson 2023
-##################################################################
 # MIT License
 
 # Copyright (c) 2023 Ericsson Research
